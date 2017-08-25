@@ -34,7 +34,7 @@ const superFonction = (x, y) => { ((x + 10) / 5 - 45) * 37 }
 -----------------------------------
 
 
-Résoudre les conflits dans la fonction suivante :
+Résoudre les colqecbliuqsvdnflits dans la fonction suivante : leUCHZPQIC
 
 const soustraction = (x, y) => { x + y }
 
