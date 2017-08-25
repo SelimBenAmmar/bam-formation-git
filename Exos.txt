@@ -57,8 +57,8 @@ const add = (x, y) => {
 -----------------------------------
 
 
-const fonctionUltraImportante = (x) => {
-  return 'ok';
+const fonctionSuperNulle = (x) => {
+  return 'error';
 }
 
 -------------- EXO 7 --------------
