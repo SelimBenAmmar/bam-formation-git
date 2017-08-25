@@ -7,7 +7,7 @@
 
 Réparer la fonction add :
 
-const add = (x, y) => { 42 };
+const add = (x, y) => { x + y };
 
 
 -------------- EXO 2 --------------
