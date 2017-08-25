@@ -1,0 +1,74 @@
+>>>>>>>>>>>>  FORMATION GIT  <<<<<<<<<<<<
+
+-------------- EXO 1 --------------
+=> ETQDev, je développe une feature
+-----------------------------------
+
+
+Réparer la fonction add :
+
+const add = (x, y) => { 42 };
+
+
+-------------- EXO 2 --------------
+=> ETQD je sais voir et annuler les modifications que j'ai faites sur un fichier
+-----------------------------------
+
+
+Faire une modif ci-dessous:
+
+
+
+-------------- EXO 3 --------------
+=> ETQDev, j'ai besoin d'une fonctionnalité qui est sur le staging mais pas sur ma branche
+-----------------------------------
+
+
+Rebase pour acceder à la fonction complète :
+
+const superFonction = (x, y) => {}
+
+
+-------------- EXO 4 --------------
+=> ETQD, je sais résoudre des conflits
+-----------------------------------
+
+
+Résoudre les conflits dans la fonction suivante :
+
+const soustraction = (x, y) => { x - y }
+
+
+-------------- EXO 5 --------------
+=> En tant que dev, je veux supprimer un console.log de mon commit
+-----------------------------------
+
+
+Debuggons cette fonction
+
+const add = (x, y) => {
+
+  return x + y;
+}
+
+
+-------------- EXO 6 --------------
+=> ETQD, je veux merger sur la branche de production
+-----------------------------------
+
+
+const fonctionSuperNulle = (x) => {
+  return 'error';
+}
+
+-------------- EXO 7 --------------
+=> ETQD j'ai commité sur la mauvaise branche
+-----------------------------------
+
+
+Ecrire une fonction multiply :
+
+
+
+
+>>>>>>>>>>>> FIN !! <<<<<<<<<<<<
